@@ -1,2 +1,3 @@
 username=swapnil
 pwd=123456ssdW
+email=Swapr@gmail.com
